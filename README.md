@@ -67,9 +67,8 @@ public class Program
         return tenThu[ngayTrongTuan - 1];
     }
 }
-
 '''
-/* khong su dung kieu du kieu struct */
+Khong su dung kieu du kieu struct
 '''
 using System;
 
