@@ -10,7 +10,7 @@ câu 1:[3đ]: viết hàm nhận vào 3 tham số ngày tháng năm cho biết �
 ***Hướng làm: nếu không sử dụng các hàm trong thư viện có sẵn (vd: hàm Datetime,..) 
 có thể sử dụng công thức Zeller's Congruence***
 **bài làm:** 
-'''cs
+'''
 using System;
 
 public struct NgayThangNam
